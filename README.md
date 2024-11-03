@@ -9,7 +9,7 @@ Currently studying at [ITMO University][itmo] for my Master's degree!
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Grigoriy | Email" width="40px" />][email]
 
 
-## Моя статистика GitHub
+## My GitHub stats
 <details>
 <summary>GitHub Stats</summary>
 
@@ -26,7 +26,7 @@ Currently studying at [ITMO University][itmo] for my Master's degree!
 
 
 
-## Используемые языки
+## Technologies I Use
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>

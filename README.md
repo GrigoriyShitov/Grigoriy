@@ -26,7 +26,7 @@ Currently studying at [ITMO University][itmo] for my Master's degree!
 
 
 
-## Technologies I Use
+## Technologies I use
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>

@@ -1,4 +1,4 @@
-# Hi there, I'm Grigoriy Shitov! 👋
+# Hi there, I'm Grigoriy! 👋
 
 ## About Me
 I'm a passionate developer with experience in web development and IoT. I enjoy working on open-source projects and constantly learning new technologies.
